@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo "No operations on the app related to libsasl buildpack"
+echo "Installing libsasl2"
+sudo apt-get install libsasl2
