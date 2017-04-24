@@ -1,2 +1,4 @@
 #!/bin/sh
 
+# Use the buildpack in all cases
+exit 0
