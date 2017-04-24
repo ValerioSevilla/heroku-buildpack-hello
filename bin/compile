@@ -1,2 +1,3 @@
 #!/bin/sh
 
+echo "No operations on the app related to libsasl buildpack"
